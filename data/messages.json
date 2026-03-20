@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Test",
+    "email": "test@example.com",
+    "message": "Un mesaj de test pentru verificare backend (minim zece caractere).",
+    "createdAt": "2026-03-20T06:28:26.911Z"
+  },
+  {
+    "id": 2,
+    "name": "Test",
+    "email": "test@example.com",
+    "message": "Un mesaj de test pentru verificare backend (minim zece caractere).",
+    "createdAt": "2026-03-20T06:28:31.814Z"
+  },
+  {
+    "id": 3,
+    "name": "Test2",
+    "email": "test2@example.com",
+    "message": "Mesaj nou test pentru verificare landing (minim zece caractere).",
+    "createdAt": "2026-03-20T06:30:16.312Z"
+  },
+  {
+    "id": 4,
+    "name": "Demo",
+    "email": "demo@example.com",
+    "message": "Mesaj nou pentru verificare dupa update (minim 10 caractere).",
+    "createdAt": "2026-03-20T06:33:02.189Z"
+  },
+  {
+    "id": 5,
+    "name": "Demo2",
+    "email": "demo2@example.com",
+    "message": "Mesaj nou pentru validare dupa update (minim zece caractere).",
+    "createdAt": "2026-03-20T06:34:24.143Z"
+  },
+  {
+    "id": 6,
+    "name": "Client",
+    "email": "client@example.com",
+    "message": "Mesaj rapid dupa update (minim zece caractere).",
+    "createdAt": "2026-03-20T06:35:57.005Z"
+  }
+]
